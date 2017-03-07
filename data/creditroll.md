@@ -147,9 +147,39 @@ by
 *- Stop censoring me, damn it!*
 
 
-**Pepa Pig**
+**Pepa Pig On Steroids**
 
 *John Doe*
 *- I. AM. NOT. FAT!!*
+
+
+**TRIGGER MONKEY**
+
+*John Doe*
+*- __TRIGGERED__*
+
+
+**STRONK WOMAN**
+
+*Jane Doe*
+*- Do you even lift bro?*
+
+
+**Anna the Battle Granny**
+
+*Jane Doe*
+*- EAT YOUR DAMN COOKIES, SONNY!*
+
+
+**DJ Depression**
+
+*John Doe*
+*- DROP THE FEELING*
+
+
+**NO MERCY**
+
+*Jane Doe*
+*- Heroes never die, or do they?*
 
 
