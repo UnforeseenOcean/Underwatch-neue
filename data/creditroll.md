@@ -62,11 +62,13 @@ by
 **Handsoap**
 
 *John Doe*
+*- Let the dragon wash your hands!*
 
 
 **Divah**
 
 *Jane Doe*
+*- AW SHIT FUCK! YOU CUNTFACE MOITHERFUCKER, STOP HACKING!!*
 
 
 **Asymmetry**
@@ -85,3 +87,44 @@ by
 
 *Jane Doe*
 *- JUSTICE RAINS FROM BELOW*
+
+
+**Ultimate Weeaboo Wet Dream**
+
+*John Doe*
+*- I have Katana collection in my room and I learn Japanese from animes*
+
+
+**Sugar Daddy: 69**
+
+*John Doe*
+*- Come to daddy ^^*
+
+**l33t h4x0r**
+
+*Jane Doe*
+*- Norton Anitivirus? Are you fucking kidding me?*
+
+**Time Paradox**
+
+*Jane Doe*
+*- Hi! Hi! Hi! Hi! Hi!*
+
+
+**Saltshaker**
+
+*Glitch-O-Matic*
+*- Beep boop motherfucker*
+
+
+**Explodey Aussie Mouse**
+
+*John Doe*
+*- I belong in the mental hospital but whatever! Ka-booom!!!!!*
+
+
+**Psychopath**
+
+*Jane Doe*
+*- Ahahahahahahahahaha!!!!*
+
