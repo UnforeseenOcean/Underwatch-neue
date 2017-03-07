@@ -5,6 +5,8 @@ Yes, shit happens all the time. The game I was working on died along with my har
 
 I needed to rewrite entire goddamned game all over again. :rage:
 
-It was quite an **ARSE**tonishing moment to observe. (lesson learned: a) never go cheap on the hard disk which you won't be backing up frequently and b) **avoid picking Seagate**)
+It was quite an **ASS**tonishing moment to observe. (lesson learned: a) never go cheap on the hard disk which you won't be backing up frequently and b) **avoid picking Seagate**)
 
 Anyway we are back to square one, any updates on the project will be posted to this repository.
+
+March 06, 2017 - Title screen and font found and layout copied, filename: under.png
