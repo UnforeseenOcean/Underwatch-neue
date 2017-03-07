@@ -183,3 +183,25 @@ by
 *- Heroes never die, or do they?*
 
 
+**Very Angry Monk**
+
+*John Doe*
+*- EXPERIENCE TRANQUILITY MOTHERFUCKER*
+
+
+**Mr.Announcer**
+
+*John Doe*
+*- I __AM__ THE OVERWATCH, BITCH!*
+
+
+**Copyright Police**
+
+*John Doe*
+*- With love, fuck off*
+
+
+**Toasty Guy**
+
+*as Himself*
+*- Toasty!*
