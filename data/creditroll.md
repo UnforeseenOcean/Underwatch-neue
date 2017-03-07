@@ -72,10 +72,16 @@ by
 **Asymmetry**
 
 *Jane Doe*
+*- OCD people's worst nightmare*
 
 
 **It's Daytime**
 
 *John Doe*
+*- It's...daytime.*
 
 
+**Missile Toe**
+
+*Jane Doe*
+*- JUSTICE RAINS FROM BELOW*
