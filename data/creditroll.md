@@ -128,3 +128,28 @@ by
 *Jane Doe*
 *- Ahahahahahahahahaha!!!!*
 
+
+**World's Best/Worst IKEA Employee**
+
+*John Doe*
+*- Where did that fucking L wrench go?*
+
+
+**Just Widow**
+
+*Jane Doe*
+*- I am a widow for a reason*
+
+
+**Power Fister**
+
+*John Doe*
+*- Stop censoring me, damn it!*
+
+
+**Pepa Pig**
+
+*John Doe*
+*- I. AM. NOT. FAT!!*
+
+
