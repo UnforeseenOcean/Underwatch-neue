@@ -214,6 +214,9 @@ by
 
 
 **Overwatch is a trademark of Blizzard Entertainment**
+
 **This is a parody and all copyrighted materials are used under fair use law**
+
 **All materials used here are owned by respective individuals, groups, companies or designers**
+
 **Please do not repackage or redistribute this game under any circumstances, I don't want FBI to show up at my door**
