@@ -77,7 +77,7 @@ by
 *- OCD people's worst nightmare*
 
 
-**It's Daytime**
+**Mac C. Ree**
 
 *John Doe*
 *- It's...daytime.*
@@ -86,7 +86,7 @@ by
 **Missile Toe**
 
 *Jane Doe*
-*- JUSTICE RAINS FROM BELOW*
+*- JUSTICE RAINS FROM BELOW OH GOD WHO SPIKED MY DRINKS*
 
 
 **Ultimate Weeaboo Wet Dream**
@@ -98,7 +98,7 @@ by
 **Sugar Daddy: 69**
 
 *John Doe*
-*- Come to daddy ^^*
+*- Come to daddy ^_^*
 
 **l33t h4x0r**
 
@@ -114,7 +114,7 @@ by
 **Saltshaker**
 
 *Glitch-O-Matic*
-*- Beep boop motherfucker*
+*- Beep boop, motherfucker*
 
 
 **Explodey Aussie Mouse**
@@ -126,13 +126,13 @@ by
 **Psychopath**
 
 *Jane Doe*
-*- Ahahahahahahahahaha!!!!*
+*- __Ahahahahahahahahaha!!!!__*
 
 
 **World's Best/Worst IKEA Employee**
 
 *John Doe*
-*- Where did that fucking L wrench go?*
+*- Where did that fucking L wrench go? \*finds out one leg is on backwards\* AH! __HORUNGE!! JÄVEL!!!! ÄT SKIT OCH DÖ DIN JÄVLA RÖVHÅL!!!!!!__ \*throws table down the stairs\**
 
 
 **Just Widow**
@@ -150,7 +150,7 @@ by
 **Pepa Pig On Steroids**
 
 *John Doe*
-*- I. AM. NOT. FAT!!*
+*- If you call me fat one more time I will fucking end you*
 
 
 **TRIGGER MONKEY**
@@ -171,7 +171,7 @@ by
 *- EAT YOUR DAMN COOKIES, SONNY!*
 
 
-**DJ Depression**
+**DJ Depressiòn**
 
 *John Doe*
 *- DROP THE FEELING*
