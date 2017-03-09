@@ -132,7 +132,7 @@ by
 **World's Best/Worst IKEA Employee**
 
 *John Doe*
-*- Where did that fucking L wrench go? \*finds out one leg is on backwards\* AH! __HORUNGE!! JÄVEL!!!! ÄT SKIT OCH DÖ DIN JÄVLA RÖVHÅL!!!!!!__ \*throws table down the stairs\**
+*- Where did that fucking L wrench go? [finds out one leg is on backwards] AH! __HORUNGE!! JÄVEL!!!! ÄT SKIT OCH DÖ DIN JÄVLA RÖVHÅL!!!!!!__ [throws table down the stairs and stomps on it]*
 
 
 **Just Widow**
@@ -156,7 +156,7 @@ by
 **TRIGGER MONKEY**
 
 *John Doe*
-*- __TRIGGERED__*
+*- __DON'T CALL ME A MONKEY YOU MOTHERFUCKER__*
 
 
 **STRONK WOMAN**
@@ -205,3 +205,15 @@ by
 
 *as Himself*
 *- Toasty!*
+
+
+**Blizzard Entertainment Cease and Desist Order Dispatcher**
+
+*John Doe*
+*- You're in a biiiiiiiiig trouble, boy*
+
+
+**Overwatch is a trademark of Blizzard Entertainment**
+**This is a parody and all copyrighted materials are used under fair use law**
+**All materials used here are owned by respective individuals, groups, companies or designers**
+**Please do not repackage or redistribute this game under any circumstances, I don't want FBI to show up at my door**
