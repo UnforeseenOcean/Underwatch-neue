@@ -1,16 +1,20 @@
 !MD!
 # DISCLAIMER
 
-This game is provided **"AS-IS"** without any warranty or guarantee that this game is safe to play. You are responsible for any incident caused by use of this game.
-
 **WARNING: This game includes sudden or sustained loud noises, unpleasant surprises, flashing lights or patterns that might cause adverse effect on certain individuals. This is called photosensitive epilepsy. If you don't feel well while playing the game, stop playing the game immediately, rest and call for medical help if required. Always play this game in a bright room while sober to minimize harmful effects. If you are under 13 years old or cannot control your body well, ask your supervisor to help you when something bad happens. Photosensitive epilepsy symptoms include: seizure (rapid, uncontrolled random twitching of arms or legs), shock, nausea, uneasy feeling, vomiting, blurred vision or double vision, loss of dexterity (slow, imprecise movements), loss of speech, loss of consciousness, rapid heartbeat or breathing, hypoxia (loss of oxygen in blood, pale face is one of the symptoms)**
 
 **MOTION SICKNESS WARNING: This game might cause motion sickness on certain individuals. If you feel sick while or after playing the game, stop playing the game immediately and ask for medical help. Motion sickness symptoms include: nausea, lightheadedness, hallucinations, vertigo, vomiting, uneasy feeling, blurred vision or double vision, and fainting. Limit the playtime if required.**
 
 **POSSIBLE HEARING DAMAGE WARNING: While the makers of this game never intended anyone to use headphones or earphones on high volume while playing, some people are bad at listening (probably from all the noise their ears were exposed to prior to playing the game) and plays the game with high volume. This is highly not recommended as it has high possibility of causing loss of hearing. Please do not play the game at high volume. Set the volume to comfortable level before playing. If possible, take some rest between game sessions to prevent extra damage that might occur from "earrape" function on this game which is enabled by default.**
 
+**LANGUAGE AND CONTENT WARNING: The content of this game may be offensive (might "offend" soneone) to some individuals. Please do not play the game if you are sensitive to, but not limited to: offensive languages, specific words such as "rape", "fuck" or "cunt", non-gender-neutral terms and jobs, mentions of "Feminazi", mild references to "Adolf Hitler" and/or "Nazism", racial stereotypes of any kind, water, trees, spelling of "sqirrel", AARDVARK, Satanism, religious parodies, "blasphemy", anti-PC terms, harsh languages, sausages, shitty vocoder effects, Navy SEAL Copypasta, Sexual Identification Memes, Pepe the Frog, squares or rectangles, MS Paint drawings, badly compressed JPEG, crappy 144p videos, "TRIGGERED" memes, actual gun triggers, guns, Second Amendment abuse, police memes, Big Brother memes, critical views on stuff, Twisted Feminism (female supremacy) and/or any possible individual and/or combination(s) of words and/or actions and/or references found online/offline.**
+
+This game is provided **"AS-IS"** without any warranty or guarantee that this game is safe to play. You are responsible for any incident caused by use of this game.
+
 (Company Name Here) is not responsible for any damage occurred while, after and/or before using, installing, searching for, playing, and/or otherwise acknowledging this game, including suicidal thoughts, depression, urge to kick that puppy, whole-house combustion, premature cell death, brain cancer, cultural genocide, loss of job, loss of eyesight and/or hearing, tinnitus, worsening of any disease or disorder, explosion, loss and/or damaging of property, photosensitive epilepsy, hypoxia, severe long and/or short-term memory loss, super-villain world domination, alien invasion, death, thermonuclear warfare, losing your house, and/or any other possible worksite or household or in-school or in-world incidents and/or accidents.
 
 This document can be used as a way to defend our company from your attorney's lies. This is not a challenge.
 
 (Company Name Here) cannot be held accountable for any Cease and Desist, seizure of personal properties, train accident or battery explosion caused by you playing this game in non-compliant hardware or workplace.
+
+Do you seriously want to play this game despite all of these warnings?! Really?!!!
