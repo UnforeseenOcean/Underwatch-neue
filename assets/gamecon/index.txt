@@ -1,0 +1,2 @@
+These are for settings page of controllers, including Steam Controller, PlayStation 4 DualShock 4, Xbox One/360 controllers and generic USB joysticks and controllers.
+Use Left, Right, Up, Down from generic keyboard setup.
