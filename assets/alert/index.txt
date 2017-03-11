@@ -1,0 +1,2 @@
+These are for dialog boxes; including those responsible for controlling save files and stats.
+Use Buttons pack for actual buttons.
