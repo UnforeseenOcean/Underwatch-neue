@@ -1,23 +1,21 @@
 !MD!
-# Game Title here
-by 
-
-*Game Company name here*
+# Underwatch
+by *Zero o'clock Entertainment*
 
 
 
-## Product of (insert name here)
+## Product of Zero o'clock Entertainment
 
 ### Team
 
 **Main Production Manager**
 
-*(Name here)*
+*Eric Kim*
 
 
 **Graphics Design**
 
-*(Name here)*
+*Nonexistent Entity*
 
 
 **Sound Design**
@@ -98,7 +96,8 @@ by
 **Sugar Daddy: 69**
 
 *John Doe*
-*- Come to daddy ^_^*
+*- Come to daddy ^_^ (Addendum: Potential rapist alert -- stay away from this guy)*
+
 
 **l33t h4x0r**
 
@@ -108,7 +107,7 @@ by
 **Time Paradox**
 
 *Jane Doe*
-*- Hi! Hi! Hi! Hi! Hi!*
+*- Hi! Hi! Hi! Hi! Hi! H -- cough cough -- Hi!*
 
 
 **Saltshaker**
@@ -120,7 +119,7 @@ by
 **Explodey Aussie Mouse**
 
 *John Doe*
-*- I belong in the mental hospital but whatever! Ka-booom!!!!!*
+*- I belong in the mental hospital but whatever! Ka-booom!!!!! (Addendum: he once blew up a kindergarten, thank God it was set for demolishion anyway)*
 
 
 **Psychopath**
@@ -132,19 +131,19 @@ by
 **World's Best/Worst IKEA Employee**
 
 *John Doe*
-*- Where did that fucking L wrench go? [finds out one leg is on backwards] AH! __HORUNGE!! JÄVEL!!!! ÄT SKIT OCH DÖ DIN JÄVLA RÖVHÅL!!!!!!__ [throws table down the stairs and stomps on it]*
+*- Where did that fucking L wrench go? [finds out one leg is on backwards] AH! __HORUNGE!! JÄVEL!!!! ÄT SKIT OCH DÖ DIN JÄVLA RÖVHÅL!!!!!!__ [throws table down the stairs and stomps on it] (Addendum: don't tell him how to do his job)*
 
 
 **Just Widow**
 
 *Jane Doe*
-*- I am a widow for a reason*
+*- I am a widow for a reason (Addendum: she is a registered sex offender AND felon)*
 
 
 **Power Fister**
 
 *John Doe*
-*- Stop censoring me, damn it!*
+*- Stop censoring me, damn it! (Addendum: he works at gay porn industry as an actor)*
 
 
 **Pepa Pig On Steroids**
@@ -162,37 +161,37 @@ by
 **STRONK WOMAN**
 
 *Jane Doe*
-*- Do you even lift bro?*
+*- Do you even lift bro? (Addendum: she once lifted The Mountain lifting 250kg weight; you stay away form her)*
 
 
 **Anna the Battle Granny**
 
 *Jane Doe*
-*- EAT YOUR DAMN COOKIES, SONNY!*
+*- EAT YOUR DAMN COOKIES, SONNY! (Addendum: NEVER make war jokes when she is near you)*
 
 
 **DJ Depressiòn**
 
 *John Doe*
-*- DROP THE FEELING*
+*- DROP THE FEELING (Addendum: he overdoses on Xanax)*
 
 
 **NO MERCY**
 
 *Jane Doe*
-*- Heroes never die, or do they?*
+*- Heroes never die, or do they? (Addendum: her doctor license was voided in 1997)*
 
 
 **Very Angry Monk**
 
 *John Doe*
-*- EXPERIENCE TRANQUILITY MOTHERFUCKER*
+*- EXPERIENCE TRANQUILITY MOTHERFUCKER (Addendum: he is a registered felon)*
 
 
 **Mr.Announcer**
 
 *John Doe*
-*- I __AM__ THE OVERWATCH, BITCH!*
+*- I __AM__ THE OVERWATCH, BITCH! (Addendum: don't fuck with this guy)*
 
 
 **Copyright Police**
@@ -210,7 +209,7 @@ by
 **Blizzard Entertainment Cease and Desist Order Dispatcher**
 
 *John Doe*
-*- You're in a biiiiiiiiig trouble, boy*
+*- You're in a __biiiiiiiiig__ trouble, boy*
 
 
 **Overwatch is a trademark of Blizzard Entertainment**
