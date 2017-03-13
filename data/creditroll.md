@@ -131,7 +131,11 @@ by *Zero o'clock Entertainment*
 **World's Best/Worst IKEA Employee**
 
 *John Doe*
-*- Where did that fucking L wrench go? [finds out one leg is on backwards] AH! __HORUNGE!! JÄVEL!!!! ÄT SKIT OCH DÖ DIN JÄVLA RÖVHÅL!!!!!!__ [throws table down the stairs and stomps on it] (Addendum: don't tell him how to do his job)*
+*- Where did that fucking L wrench go? [finds out one leg is on backwards]*
+*AH! __HORUNGE!! JÄVEL!!!! ÄT SKIT OCH DÖ DIN JÄVLA RÖVHÅL!!!!!!__*
+*[throws table down the stairs and stomps on it]*
+
+*(Addendum: don't tell him how to do his job)*
 
 
 **Just Widow**
