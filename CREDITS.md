@@ -10,15 +10,31 @@ Pond5
 
 ## Music
 
-shittyflute - Overwatch Play of the Game Shittyfluted
-
-009 Sound System - Dreamscape
-
 YouTube Audio Library
 
 Kevin MacLeod (incompetech.com)
 
+VGMusic.com
+
+Farbrausch
+
+Modland.com (FTP)
+
 SoundCloud users
+
+Shittyflute
+
+009 Sound System
+
+### Songs/musics used
+
+shittyflute - Overwatch Play of the Game Shittyfluted
+
+009 Sound System - Dreamscape
+
+Multi Theft Auto credits
+
+BeRO - C0derpr0n
 
 ## Artworks
 
@@ -51,6 +67,24 @@ Me
 ## Fonts
 
 Resike (Extraction)
+
+### Fonts used
+
+BigNoodleToo
+
+Futura
+
+Koverwatch
+
+Helvetica Neue
+
+Coolvetica
+
+Lucida Console
+
+OpenSans
+
+Noto Sans
 
 ## Sprites
 
