@@ -56,5 +56,7 @@ Commands:
 Will be seen as:
 
 `program.sh -filename=stuff1 -prefix=things3`
+
 `program.sh -filename=stuff2 -prefix=eggs`
+
 `program.sh -filename=stuff3 -prefix=mydoom`
