@@ -18,7 +18,7 @@ Filter list is a training data used to change the line in the document to a basi
 
 Training data is composed like this: 
 
-`LineStart="Commands", Initcmd="program.sh", Argument1="filename=", Argument2="prefix=", ArgumentSeparator=" -", EscapeChar="^", Delimiter="&"`
+`LineStart="Commands:", Initcmd="program.sh", Argument1="filename=", Argument2="prefix=", ArgumentSeparator=" -", EscapeChar="^", Delimiter="&"`
 
 Let's break it down so it's easier to read.
 
@@ -33,3 +33,7 @@ Let's break it down so it's easier to read.
 `EscapeChar` sets the escape character for the commands so things like double comma, asterisks and minus signs are not interpreted as commands.
 
 `Delimiter` sets the character which limits the length of the argument. After this character, the interpreter will jump to next argument.
+
+So, if the input is `Commands: program.sh&myfile&dothisthenthat`, the output will be:
+
+`program.sh -filename=myfile -prefix=dothisthenthat`
