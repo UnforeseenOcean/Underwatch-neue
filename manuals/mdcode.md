@@ -37,3 +37,7 @@ Let's break it down so it's easier to read.
 So, if the input is `Commands: program.sh&myfile&dothisthenthat`, the output will be:
 
 `program.sh -filename=myfile -prefix=dothisthenthat`
+
+You can use all line header indicators, text effects and even long paragraphs up to 1024 characters in length.
+
+But `###`, on the other hand, will be ignored. This is a comment header, and if this is in front of the line, that line will be ignored.
