@@ -34,10 +34,27 @@ Let's break it down so it's easier to read.
 
 `Delimiter` sets the character which limits the length of the argument. After this character, the interpreter will jump to next argument.
 
-So, if the input is `Commands: program.sh&myfile&dothisthenthat`, the output will be:
+(More to come!)
+
+So, if the input is `Commands: myfile&dothisthenthat`, the output will be:
 
 `program.sh -filename=myfile -prefix=dothisthenthat`
 
 You can use all line header indicators, text effects and even long paragraphs up to 1024 characters in length.
 
-But `###`, on the other hand, will be ignored. This is a comment header, and if this is in front of the line, that line will be ignored.
+But `###` and `--`, on the other hand, will be ignored. This is a comment header, and if this is in front of the line, that line will be ignored.
+
+You can use unordered and ordered list as a type of argument, or a way to enforce lines to execute in a particular order.
+
+For example, this (using the example data from above):
+
+Commands:
+- stuff1&things3
+- stuff2&eggs
+- stuff3&mydoom
+
+Will be seen as:
+
+`program.sh -filename=stuff1 -prefix=things3`
+`program.sh -filename=stuff2 -prefix=eggs`
+`program.sh -filename=stuff3 -prefix=mydoom`
