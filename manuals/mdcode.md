@@ -73,8 +73,14 @@ Caution: Delimiter argument must be used!
 
 If `LookFor` is not used, the argument is passed sequentially from the start of the line, and if multiple instances of the header character is in the string, it will only use the first one it comes across.
 
+Note that it will avoid reading same character twice and reads stuff from above, so if first header is `!@` and second was `!@@`, it will ignore the second one! Put spaces or strings there. (It will find the header from the string it comes across from input, which you can point to specific line with section heading indicators.)
+
 `PassFrom`: Gets input from external module, literally. 
 
 Example: `Argument1="seed="&PassFrom="chance.integer();"` Input: `[not needed]` Output: `-38499`
+
+`PointTo`: Section heading to look for inputs. `---` is used as a delimiter. Use two `#` as a way to indicate the section.
+
+`# Title Name`: Used as a title, program tag or both. Same as `<h1>` in HTML. You can put something like `# MyProgram` and set filename to `cutekittens.md` and call `MyProgram`, and it will load `cutekittens.md` instead of `myprogram.md`.
 
 (More to come!)
