@@ -83,4 +83,6 @@ Example: `Argument1="seed="&PassFrom="chance.integer();"` Input: `[not needed]` 
 
 `# Title Name`: Used as a title, program tag or both. Same as `<h1>` in HTML. You can put something like `# MyProgram` and set filename to `cutekittens.md` and call `MyProgram`, and it will load `cutekittens.md` instead of `myprogram.md`.
 
+`!MD!`: Markdown File Header, used to filter out other files for quicker loading time. If first 4 bytes are not `!MD!`, that file is skipped automatically.
+
 (More to come!)
