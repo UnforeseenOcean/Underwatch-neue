@@ -71,7 +71,7 @@ Example: `Argument1="stuff="&LookFor="!@"` Input: `u7&hj&!@nyxem&friwnf$gierwjg#
 
 Caution: Delimiter argument must be used!
 
-If `LookFor` is not used, the argument is passed sequentially from the start of the line.
+If `LookFor` is not used, the argument is passed sequentially from the start of the line, and if multiple instances of the header character is in the string, it will only use the first one it comes across.
 
 `PassFrom`: Gets input from external module, literally. 
 
