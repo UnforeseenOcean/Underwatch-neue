@@ -34,6 +34,20 @@ Let's break it down so it's easier to read.
 
 `Delimiter` sets the character which limits the length of the argument. After this character, the interpreter will jump to next argument.
 
+Other commands, not used in the example above or not yet implemented, but planned:
+
+`LookFor`: Used in each argument, words starting with this set of character will be used as that argument. 
+
+Example: `Argument1="stuff="&LookFor="!@"` Input: `u7&hj&!@nyxem&friwnf$gierwjg##dfhsaiou^^*&ghh$#` Output: `stuff=nyxem`
+
+Caution: Delimiter argument must be used!
+
+If `LookFor` is not used, the argument is passed sequentially from the start of the line.
+
+`PassFrom`: Gets input from external module, literally. 
+
+Example: `Argument1="seed="&PassFrom="chance.integer();"` Input: `[not needed]` Output: `-38499`
+
 (More to come!)
 
 So, if the input is `Commands: myfile&dothisthenthat`, the output will be:
@@ -60,3 +74,5 @@ Will be seen as:
 `program.sh -filename=stuff2 -prefix=eggs`
 
 `program.sh -filename=stuff3 -prefix=mydoom`
+
+Oh, didn't I tell you that the order of arguments can be random as long as it is readable AND is tagged?
