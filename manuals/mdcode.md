@@ -81,8 +81,12 @@ Example: `Argument1="seed="&PassFrom="chance.integer();"` Input: `[not needed]` 
 
 `PointTo`: Section heading to look for inputs. `---` is used as a delimiter. Use two `#` as a way to indicate the section.
 
-`# Title Name`: Used as a title, program tag or both. Same as `<h1>` in HTML. You can put something like `# MyProgram` and set filename to `cutekittens.md` and call `MyProgram`, and it will load `cutekittens.md` instead of `myprogram.md`.
+`# Title Name`: Used as a title, program tag or both. Same as `<h1>` in HTML. The title is used to set the title of the program, and used as a discriminator. Warning: Please do not use same title multiple times as it will cause the program to fail! Each name must be unique! 
 
 `!MD!`: Markdown File Header, used to filter out other files for quicker loading time. If first 4 bytes are not `!MD!`, that file is skipped automatically.
+
+`If, And, Then, Do, Or, Else`: Used exactly as used in other languages.
+
+Example: `If js.input("type")=="nimda" and js.input("type")=="netsky" or if (chance.integer();)<="1024" then do alert("xss"); else do alert("no cows");`
 
 (More to come!)
