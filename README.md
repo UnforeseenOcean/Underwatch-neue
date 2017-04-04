@@ -12,3 +12,9 @@ Anyway we are back to square one, any updates on the project will be posted to t
 March 06, 2017 - Title screen and font found and layout copied, filename: under.png
 
 March 13, 2017 - Updated credits (which will be reused in character info section)
+
+March 20, 2017 - Confirmed replication of documentations
+
+March 28, 2017 - Documents replicated
+
+April 04, 2017 - Almost all but core scripts replicated
