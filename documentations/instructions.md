@@ -35,6 +35,17 @@ Or go to Control config screen. That works too.
 11. Just as you plug that contraption in, find out that you had boxes of correct cables in your room, just under the desk
 12. Scream some profanity at the sky and ponder about your past life, especially about the crimes you committed in your past life that has deemed punishable by this torture
 
-Supported resolutions:
-
+### Supported resolutions:
 LOOK AT THE SETTINGS SCREEN, OKAY?
+
+## Graphics
+Try Ultra setting if you don't know shit about graphics stuff.
+
+If you fuck it up, computer will tell you that you are fucking mental by crashing the game.
+
+I'm unsure what TXAA x16 will do on a game which:
+- obviously isn't 3D
+- mind-numbingly pixelated
+- isn't trying to simulate real-world at all (because if it did, the suicide rate would go through the roof)
+
+So well, it's up to you.
