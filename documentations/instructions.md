@@ -16,11 +16,6 @@
 12. Turn on the game
 13. Curse at the screen for few hours because the game is shit and you wasted your whole weekend installing this piece of shit
 
-## Controls
-Press random keys until something happens. The first level you will start in is a tutorial level anyway.
-
-Or go to Control config screen. That works too.
-
 ## Display setup
 1. Plug in monitor's power cable
 2. Find the correct data cable
@@ -35,6 +30,13 @@ Or go to Control config screen. That works too.
 11. Just as you plug that contraption in, find out that you had boxes of correct cables in your room, just under the desk
 12. Scream some profanity at the sky and ponder about your past life, especially about the crimes you committed in your past life that has deemed punishable by this torture
 
+# Settings
+
+## Controls
+Press random keys until something happens. The first level you will start in is a tutorial level anyway.
+
+Or go to Control config screen. That works too.
+
 ### Supported resolutions:
 LOOK AT THE SETTINGS SCREEN, OKAY?
 
@@ -45,7 +47,31 @@ If you fuck it up, computer will tell you that you are fucking mental by crashin
 
 I'm unsure what TXAA x16 will do on a game which:
 - obviously isn't 3D
-- mind-numbingly pixelated
-- isn't trying to simulate real-world at all (because if it did, the suicide rate would go through the roof)
+- is mind-numbingly pixelated
+- clearly isn't trying to simulate real-world at all (because if it did, the suicide rate would go through the roof)
 
-So well, it's up to you.
+So well, it's up to you. Go crazy with settings, I don't care.
+
+## Sound setting
+Here you can set how fast you want to lose your hearing. 
+
+Move the slider to right to lose your hearing faster and do the opposite to lose your hearing slower.
+
+You know, you can enable and disable stuff here and there but it won't do a thing because it still sucks monkey fuck.
+
+Here are things you can change:
+- Main music volume
+- Sound effects
+- Explosions
+- Loudness
+- Sad music volume
+- Quaffs
+- Terminal 7
+- Air horns
+- Buzzers
+- Nuclear meltdown warning siren
+
+Buuuuuut it still doesn't change the fact that you're playing a shit game and the developer certainly didn't give a flying fuck about your or his safety.
+
+## Game over
+So, you've got your first ever game over screen. Congrats! But you get nothing, because your life is miserable and I want to kill myself right now.
