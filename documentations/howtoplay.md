@@ -16,3 +16,5 @@ You can use cheapstakes such as nuke (aids you at killing yourself too, and usin
 
 Be careful, you cannot use enemy weapon and trying to use it by pressing E will result in immediate suicide. (Not really, it just shoots slowly and in random direction including on yourself)
 
+Press tilde key or any key right below ESC key to use cheats. You will not be penalized for cheating, especially when using it to make the game even harder.
+
