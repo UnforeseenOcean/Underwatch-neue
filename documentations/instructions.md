@@ -74,4 +74,22 @@ Here are things you can change:
 Buuuuuut it still doesn't change the fact that you're playing a shit game and the developer certainly didn't give a flying fuck about your or his safety.
 
 ## Game over
-So, you've got your first ever game over screen. Congrats! But you get nothing, because your life is miserable and I want to kill myself right now.
+So, you've got your first ever game over screen. 
+
+Congrats! 
+
+But it doesn't matter because your life is miserable and I want to kill myself right now.
+
+(Yes, it really doesn't matter. At all. You lost. That's all.)
+
+## Basic interactions instruction
+
+1. Sit in front of your laptop or computer. Do not sit ON the laptop or computer, you idiot.
+2. Open and/or turn on the laptop or the computer you want to play the game on.
+3. Double click or click then press enter on the game's icon.
+4. Start the game, you moron.
+5. Hey, are you sleeping? Hey! HEY!!!
+6. You just point at stuff and shoot them until they die, okay? You just play it exactly like you would with Relic Hunters Zero or Enter the Gungeon.
+
+## Closing up
+This is how you should play this game. But you obviously don't give a fuck.
