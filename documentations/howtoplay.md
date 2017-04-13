@@ -18,3 +18,8 @@ Be careful, you cannot use enemy weapon and trying to use it by pressing E will 
 
 Press tilde key or any key right below ESC key to use cheats. You will not be penalized for cheating, especially when using it to make the game even harder.
 
+There are lots of things to do in the game itself, but not all of them will yield a good score.
+
+For example, shooting bystanders will decrease your score by a factor of 4 while killing animals or ramming into protesters will result in an instant game over. For more information, try looking at hardrules.md for ruleset used in the game to see which action yields most score and which do not.
+
+Failing to obey the rules in the game will result in either termination of the game session or a mark that shows how asshole you are.
