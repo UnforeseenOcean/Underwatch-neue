@@ -1,0 +1,38 @@
+$ACTION_OK
+Okay
+OK
+Fine
+Whatever
+Do it
+I don't care
+$ACTION_YES
+Yes
+Yee
+Of course
+Not disagreeing
+Do it
+Fuck yeah
+Hell yeah
+YESSSSSS
+$ACTION_NO
+Fuck no
+Hell naw
+No
+NOPE
+No shit Sherlock
+Fuck off
+$ACTION_CONFIRM
+Okay
+Do it
+Whatever
+$ACTION_DENY
+Fuck off
+No
+Nope
+$MENU_ELEMENTS_START
+Start game
+Begin
+$MENU_ELEMENTS_PAUSE
+Paused
+$MENU_ELEMENTS_OPTIONS
+Options
