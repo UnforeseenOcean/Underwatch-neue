@@ -18,3 +18,11 @@ March 20, 2017 - Confirmed replication of documentations
 March 28, 2017 - Documents replicated
 
 April 04, 2017 - Almost all but core scripts replicated
+
+April 19, 2017 - Last backup found on server, but corrupted beyond repair due to logic board failure (0/5 backups usable)
+
+DVD Backup found damaged (circle of death caused by carbide dust)
+
+Static backup drive permanently destroyed (head failure followed by logic board failure, 40GB Maxtor HDD)
+
+Emotional crisis in progress
