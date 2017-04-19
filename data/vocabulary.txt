@@ -1,3 +1,5 @@
+// This is a vocabulary used by in-game characters. This list contains very simplified set of common English words, using the Rockstride's vocabulary (from Witcher comics) as a basis. Rockstride is a troll whose speech skills are limited, so he uses very simple English. This list will be sorted by meaning after it's completed.
+
 %NAME%
 %NULL%
 %PAUSE%
