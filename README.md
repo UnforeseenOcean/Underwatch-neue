@@ -26,3 +26,11 @@ DVD Backup found damaged (circle of death caused by carbide dust)
 Static backup drive permanently destroyed (head failure followed by logic board failure, 40GB Maxtor HDD)
 
 Emotional crisis in progress
+
+May 31, 2017 - Game progress halted due to priority issues
+
+June 4, 2017 - Grand plan set
+
+Added BugCatcher
+
+Added Humour
