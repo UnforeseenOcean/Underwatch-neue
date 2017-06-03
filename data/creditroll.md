@@ -59,54 +59,55 @@ by *Zero o'clock Entertainment*
 
 **Handsoap**
 
-*John Doe*
+*Brian "Don't Call Me Handsoap" Matsuyama*
 *- Let the dragon wash your hands!*
 
 
 **Divah**
 
-*Jane Doe*
+*Lindy Brown*
 *- AW SHIT FUCK! YOU CUNTFACE MOITHERFUCKER, STOP HACKING!!*
 
 
 **Asymmetry**
 
-*Jane Doe*
+*Joanne Maath*
 *- OCD people's worst nightmare*
 
 
 **Mac C. Ree**
 
-*John Doe*
+*Paul Maverick*
 *- It's...daytime.*
 
 
 **Missile Toe**
 
-*Jane Doe*
+*Sade Eisplosionne*
 *- JUSTICE RAINS FROM BELOW OH GOD WHO SPIKED MY DRINKS*
 
 
 **Ultimate Weeaboo Wet Dream**
 
-*John Doe*
+*James "Are You Gonna Put This On The Credits" Surimaru*
 *- I have Katana collection in my room and I learn Japanese from animes*
 
 
 **Sugar Daddy: 69**
 
-*John Doe*
+*Piotr Cortez*
 *- Come to daddy ^_^ (Addendum: Potential rapist alert -- stay away from this guy)*
 
 
 **l33t h4x0r**
 
-*Jane Doe*
+*Glorianna Venezuela*
 *- Norton Anitivirus? Are you fucking kidding me?*
+
 
 **Time Paradox**
 
-*Jane Doe*
+*Audrey Haphazard*
 *- Hi! Hi! Hi! Hi! Hi! H -- cough cough -- Hi!*
 
 
@@ -118,19 +119,19 @@ by *Zero o'clock Entertainment*
 
 **Explodey Aussie Mouse**
 
-*John Doe*
+*Weldon J. B.*
 *- I belong in the mental hospital but whatever! Ka-booom!!!!! (Addendum: he once blew up a kindergarten, thank God it was set for demolishion anyway)*
 
 
 **Psychopath**
 
-*Jane Doe*
+*Pearl Cheyannyin*
 *- __Ahahahahahahahahaha!!!!__*
 
 
 **World's Best/Worst IKEA Employee**
 
-*John Doe*
+*Hafthor "Not That Guy" Julius Bj?rnsson*
 *- Where did that fucking L wrench go? [finds out one leg is on backwards]*
 *AH! __HORUNGE!! JÄVEL!!!! ÄT SKIT OCH DÖ DIN JÄVLA RÖVHÅL!!!!!!__*
 *[throws table down the stairs and stomps on it]*
@@ -140,37 +141,37 @@ by *Zero o'clock Entertainment*
 
 **Just Widow**
 
-*Jane Doe*
+*Shirley Nor Gatesmen*
 *- I am a widow for a reason (Addendum: she is a registered sex offender AND felon)*
 
 
 **Power Fister**
 
-*John Doe*
+*Trent Mason*
 *- Stop censoring me, damn it! (Addendum: he works at gay porn industry as an actor)*
 
 
 **Pepa Pig On Steroids**
 
-*John Doe*
+*Raoul Jamesson*
 *- If you call me fat one more time I will fucking end you*
 
 
 **TRIGGER MONKEY**
 
-*John Doe*
+*Triston Ashton*
 *- __DON'T CALL ME A MONKEY YOU MOTHERFUCKER__*
 
 
 **STRONK WOMAN**
 
-*Jane Doe*
+*Vesemir Sigmund*
 *- Do you even lift bro? (Addendum: she once lifted The Mountain lifting 250kg weight; you stay away form her)*
 
 
 **Anna the Battle Granny**
 
-*Jane Doe*
+*Keira Simmons*
 *- EAT YOUR DAMN COOKIES, SONNY! (Addendum: NEVER make war jokes when she is near you)*
 
 
@@ -182,25 +183,25 @@ by *Zero o'clock Entertainment*
 
 **NO MERCY**
 
-*Jane Doe*
+*Beatrix "Not A Real Doctor" Weecher*
 *- Heroes never die, or do they? (Addendum: her doctor license was voided in 1997)*
 
 
 **Very Angry Monk**
 
-*John Doe*
+*Gavin Zachsson*
 *- EXPERIENCE TRANQUILITY MOTHERFUCKER (Addendum: he is a registered felon)*
 
 
 **Mr.Announcer**
 
-*John Doe*
+*Ryu Jaki*
 *- I __AM__ THE OVERWATCH, BITCH! (Addendum: don't fuck with this guy)*
 
 
 **Copyright Police**
 
-*John Doe*
+*Matt Resse*
 *- With love, fuck off*
 
 
@@ -212,11 +213,13 @@ by *Zero o'clock Entertainment*
 
 **Blizzard Entertainment Cease and Desist Order Dispatcher**
 
-*John Doe*
+*Jeff Kapton*
 *- You're in a __biiiiiiiiig__ trouble, boy*
 
 
-**Overwatch is a trademark of Blizzard Entertainment**
+**Overwatch is a trademark of Blizzard Entertainment.**
+
+**All and any other trademarks or registered trademarks, logos and names are coincidental.**
 
 **This is a parody and all copyrighted materials are used under fair use law**
 
