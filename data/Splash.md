@@ -36,11 +36,21 @@ Wirconi to thi Gala lol
 
 Game crashed! Cause: Sued by Snowstorm Entertainment
 
+In case you didn't know - War is bad and you shouldn't be fucking with it
 
+If you fear someone could take your toy and misuse it, don't make it in the first place
+
+Guess what - You suck
+
+The best way to win the game is not to play it
+
+I'm writing this in my free time, why don't you spend your wasted time on this
+
+Try the game 100+ times, sometimes it will crash your computer
 
 ## Special Splashes
 
-!!TriggerAction(Type="STOP_SPLASH"&Action="BSOD"&TriggerType="Chance.js"&TriggerLimit="x in y(x=1,y=100)"&ElseMsg="Why are you here?");
+!!TriggerAction(Type="STOP_SPLASH"&Action="BSOD"&TriggerType="Chance.js"&TriggerLimit="x in y(x=1,y=10000)"&ElseMsg="Why are you here?");
 
 !!TriggerAction(Type="MusicChange"&Action="ChangeTo"&Filename="NextFileInList&List=/music/musiclist.m3u"&TriggerType=""Chance.js"&TriggerLimit="x in y(x=1,y=50)"&ElseMsg="Nobody cares");
 
